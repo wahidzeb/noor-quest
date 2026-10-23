@@ -1,0 +1,42 @@
+{
+  "id": "/noor-quest/",
+  "name": "Noor Quest",
+  "short_name": "Noor Quest",
+  "description": "Noor Quest by Zaib: a gentle Islamic learning adventure for kids. Trace Arabic letters, build short surahs word by word, learn wudu and salah, the five pillars, good manners and stories of the Prophets. Free in your browser.",
+  "lang": "en",
+  "start_url": "/noor-quest/?source=pwa",
+  "scope": "/noor-quest/",
+  "display": "standalone",
+  "orientation": "any",
+  "theme_color": "#7b4fe0",
+  "background_color": "#7b4fe0",
+  "categories": [
+    "games"
+  ],
+  "icons": [
+    {
+      "src": "/noor-quest/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/noor-quest/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/noor-quest/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/noor-quest/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
